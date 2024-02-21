@@ -1,0 +1,2 @@
+V1.0 calcula la venta promedio
+V1.1 agrega filtros de productos de sourcing, calcula la venta promedio y hace un merge para traer el nombre de proveedor y nombre comercial
